@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lara.jr.keen@gmail.com
+	name = Lara Keen
